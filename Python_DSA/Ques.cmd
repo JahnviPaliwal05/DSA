@@ -5,7 +5,8 @@
 3. Rotate an array to the right by *k* steps.
 4. Find the maximum subarray sum (Kadane’s Algorithm).
 5. Merge two sorted arrays without using extra space.
-6. Find the missing number in an array of size *n* containing numbers from 1 to *n*.
+6. You are given an array of size n-1 containing numbers from 1 to n.
+One number is missing. Find it.
 7. Find all leaders in an array (elements greater than all elements to their right).
 8. Rearrange array so that positive and negative numbers alternate.
 
@@ -23,7 +24,7 @@
 16. Group anagrams together.
 
 ---
-
+ 
 ## 🔹 Linked List (17–23)
 
 17. Reverse a singly linked list.
